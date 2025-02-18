@@ -1,0 +1,6 @@
+Kleiton Assis de Souza   
+
+	Realizando uma conclusão sobre esse teste posso afirmar que é um teste de apresentação de dados, 
+demonstrando um gráfico de forma que torne mais interativa e fácil de observar e concluir formas de melhorar 
+a eficácia e produtividade da empresa. Contendo informações sobre clientes, segmentos, vendas, campanha 
+de marketing e etc. 
